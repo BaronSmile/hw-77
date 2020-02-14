@@ -1,0 +1,27 @@
+.form {
+    margin-top: 100px;
+    padding: 30px 0;
+    background-color: whitesmoke;
+}
+.form li {
+    list-style: none;
+}
+input{
+    padding: 6px 10px;
+    background-color: white;
+    border: 0.5px solid #cccccc;
+    margin: 10px 0;
+    width: 30%;
+    outline: none;
+}
+.btn{
+    padding: 6.5px 20px;
+    background-color: #fec426;
+    border: none;
+    color: #292929;
+    margin-left: 5px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+}

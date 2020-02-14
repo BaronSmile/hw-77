@@ -1,0 +1,24 @@
+.messageBlock{
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 30px;
+    border-bottom: 0.5px solid #ccc;
+    width: 80%;
+    margin: 0 auto;
+}
+.author{
+    font-weight: 500;
+    margin: 0;
+}
+.message{
+    margin: 0;
+    font-style: italic;
+    font-weight: 200;
+    letter-spacing: 2px ;
+    padding: 10px 0;
+}
+.inDate{
+    float: right;
+    font-size: 12px;
+    font-style: italic;
+}
